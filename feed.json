@@ -1,0 +1,22 @@
+{
+  "providerName": "Washington TV",
+  "language": "en",
+  "lastUpdated": "2025-01-10",
+  "channels": [
+    {
+      "title": "Washington TV Live",
+      "description": "Live broadcast from Washington TV",
+      "content": {
+        "videos": [
+          {
+            "id": "wtv-live",
+            "title": "Washington TV Live",
+            "streamFormat": "hls",
+            "url": "https://playlist.dacast.com/live/be022dca-cf8e-7c93-8988-f0a4033b8be1-live-5c98ca11-b540-4295-a8e7-91d407b5a9f3/master.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ]
+}
